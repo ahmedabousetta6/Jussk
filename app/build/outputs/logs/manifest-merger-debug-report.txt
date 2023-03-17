@@ -1,0 +1,403 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:2:1-65:12
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\biostech\.gradle\caches\transforms-3\df6822b4ba73a7c473e8051c3543d0a7\transformed\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\biostech\.gradle\caches\transforms-3\6c9c97615cfc1e30abc2ed961985f2e8\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\biostech\.gradle\caches\transforms-3\16349600783fa4c0732e670111179c78\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:18.0.1] C:\Users\biostech\.gradle\caches\transforms-3\c14dba5edf88df814e318dcbd7f96049\transformed\jetified-play-services-maps-18.0.1\AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-location:19.0.0] C:\Users\biostech\.gradle\caches\transforms-3\b4d2d0f81868c6da67e8edf483674ef1\transformed\jetified-play-services-location-19.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.markushi:circlebutton:1.1] C:\Users\biostech\.gradle\caches\transforms-3\1f4df4b3d2fc6bc01ebd781a271665ca\transformed\jetified-circlebutton-1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\7198bc9663cdd6bdfb0b0958cb77af92\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\fc2c17e1252f7bc391a1113e9da7ead9\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\fdf82ea01639be3b378e3d8ae26d9fb7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\3504aa656f9d00f9e2cadffb281d01d0\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\biostech\.gradle\caches\transforms-3\c247fbe16cfb168c5d8e079da1f8ee44\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\biostech\.gradle\caches\transforms-3\c51c1755600648bccca4ea7c8704c708\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.0] C:\Users\biostech\.gradle\caches\transforms-3\89b53bb760bf66c83cd8cefe35ee5479\transformed\jetified-play-services-tasks-18.0.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\biostech\.gradle\caches\transforms-3\e6d400ba5c8d05501ff6f03a459292e6\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\biostech\.gradle\caches\transforms-3\7e09f154def15ab17348089459421b07\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\biostech\.gradle\caches\transforms-3\c2943c766a971b30133f49407ff21e60\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\3f7821781e94f81fee824a3c8b7db309\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\a2242387247aa8432093d2a01af71dba\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\biostech\.gradle\caches\transforms-3\7504ccfe757c3b8251dde7494000f3ff\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\biostech\.gradle\caches\transforms-3\82e137d0499d09a449d2463aa5974f15\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\biostech\.gradle\caches\transforms-3\bad80395f89f9c8d7e39c1b2b41b5525\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\biostech\.gradle\caches\transforms-3\ec79f9c58b64c498772908f9ba77a8d1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\70815d79092ecd9fc6461dffc8a2c5cb\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\653456c4a641da75de4b4a9638a8683c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\26a7debbd02593a460c2da8b73b1a684\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\9666b4e4af60ed58b0ce2300b5e688b4\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\biostech\.gradle\caches\transforms-3\07202513350ea83f4d6257994e0c248b\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\4c4629283f6e569e5667004f76617cc7\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\b2ba3d5ed78786779fe2371dcc849edb\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\c6a5dbd933b5d9edc3eaf04e5514889f\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\abdc8169a7295de3f7919833b2bb3b38\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\61c2c96224335355841f2b14c65306c1\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\biostech\.gradle\caches\transforms-3\d2b38ed747382c5e5a6e7478df98d3b8\transformed\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\biostech\.gradle\caches\transforms-3\76daf7c648fcd60b1fa8502269df1152\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\biostech\.gradle\caches\transforms-3\428407af95293b899efae517a280444a\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\biostech\.gradle\caches\transforms-3\0dc6dc78734c4020dab75f9829870687\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\caacbca232305dc5be1f7f468063d861\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\70be178243629fefb8ce9adf6a292e12\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\c37e8f3de07728d5aa1483e75a377c93\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\30559646bdc9f3290097ba378eb99203\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\b618f929228947d1fd03b4a852d85b00\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\biostech\.gradle\caches\transforms-3\1cb4c19a0747461aa679ba30d4bab2d0\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\biostech\.gradle\caches\transforms-3\9431a3100b3f63fcde039d72eb8ba536\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\biostech\.gradle\caches\transforms-3\4e4b987f33dc68fb28188a73908499f7\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\78759bb9014001eef7850905c2fbbc44\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:2:1-65:12
+	package
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:4:5-41
+		INJECTED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:2:1-65:12
+		INJECTED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:2:1-65:12
+		INJECTED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:14:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.0.1] C:\Users\biostech\.gradle\caches\transforms-3\c14dba5edf88df814e318dcbd7f96049\transformed\jetified-play-services-maps-18.0.1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.0.1] C:\Users\biostech\.gradle\caches\transforms-3\c14dba5edf88df814e318dcbd7f96049\transformed\jetified-play-services-maps-18.0.1\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:14:22-64
+application
+ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:16:5-63:19
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\biostech\.gradle\caches\transforms-3\df6822b4ba73a7c473e8051c3543d0a7\transformed\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\biostech\.gradle\caches\transforms-3\df6822b4ba73a7c473e8051c3543d0a7\transformed\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\biostech\.gradle\caches\transforms-3\6c9c97615cfc1e30abc2ed961985f2e8\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\biostech\.gradle\caches\transforms-3\6c9c97615cfc1e30abc2ed961985f2e8\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:18.0.1] C:\Users\biostech\.gradle\caches\transforms-3\c14dba5edf88df814e318dcbd7f96049\transformed\jetified-play-services-maps-18.0.1\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.0.1] C:\Users\biostech\.gradle\caches\transforms-3\c14dba5edf88df814e318dcbd7f96049\transformed\jetified-play-services-maps-18.0.1\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-location:19.0.0] C:\Users\biostech\.gradle\caches\transforms-3\b4d2d0f81868c6da67e8edf483674ef1\transformed\jetified-play-services-location-19.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:19.0.0] C:\Users\biostech\.gradle\caches\transforms-3\b4d2d0f81868c6da67e8edf483674ef1\transformed\jetified-play-services-location-19.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.github.markushi:circlebutton:1.1] C:\Users\biostech\.gradle\caches\transforms-3\1f4df4b3d2fc6bc01ebd781a271665ca\transformed\jetified-circlebutton-1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.markushi:circlebutton:1.1] C:\Users\biostech\.gradle\caches\transforms-3\1f4df4b3d2fc6bc01ebd781a271665ca\transformed\jetified-circlebutton-1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:45:5-53:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:45:5-53:19
+MERGED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\biostech\.gradle\caches\transforms-3\c247fbe16cfb168c5d8e079da1f8ee44\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\biostech\.gradle\caches\transforms-3\c247fbe16cfb168c5d8e079da1f8ee44\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\biostech\.gradle\caches\transforms-3\c51c1755600648bccca4ea7c8704c708\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\biostech\.gradle\caches\transforms-3\c51c1755600648bccca4ea7c8704c708\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.0] C:\Users\biostech\.gradle\caches\transforms-3\89b53bb760bf66c83cd8cefe35ee5479\transformed\jetified-play-services-tasks-18.0.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.0] C:\Users\biostech\.gradle\caches\transforms-3\89b53bb760bf66c83cd8cefe35ee5479\transformed\jetified-play-services-tasks-18.0.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\biostech\.gradle\caches\transforms-3\e6d400ba5c8d05501ff6f03a459292e6\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\biostech\.gradle\caches\transforms-3\e6d400ba5c8d05501ff6f03a459292e6\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.3.1] C:\Users\biostech\.gradle\caches\transforms-3\d2b38ed747382c5e5a6e7478df98d3b8\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\biostech\.gradle\caches\transforms-3\d2b38ed747382c5e5a6e7478df98d3b8\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\biostech\.gradle\caches\transforms-3\76daf7c648fcd60b1fa8502269df1152\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\biostech\.gradle\caches\transforms-3\76daf7c648fcd60b1fa8502269df1152\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\biostech\.gradle\caches\transforms-3\d2b38ed747382c5e5a6e7478df98d3b8\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:20:9-41
+	android:roundIcon
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:21:9-54
+	android:icon
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:23:9-52
+activity#com.example.onlineshopping.user.Get_location
+ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:24:9-26:40
+	android:exported
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:25:13-46
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:35:9-37:71
+	android:value
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:37:13-68
+	android:name
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:36:13-58
+activity#com.example.onlineshopping.user.Geolocation
+ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:39:9-54
+	android:name
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:39:19-51
+activity#com.example.onlineshopping.ui.StartActivity
+ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:40:9-48:20
+	android:exported
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:42:13-36
+	android:name
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:41:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:43:13-47:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:46:27-74
+activity#com.example.onlineshopping.user.UpdateCart
+ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:49:9-53
+	android:name
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:49:19-50
+activity#com.example.onlineshopping.user.ShowProduct
+ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:50:9-54
+	android:name
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:50:19-51
+activity#com.example.onlineshopping.user.Products
+ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:51:9-51
+	android:name
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:51:19-48
+activity#com.example.onlineshopping.user.Cart
+ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:52:9-47
+	android:name
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:52:19-44
+activity#com.example.onlineshopping.ui.Forget
+ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:53:9-47
+	android:name
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:53:19-44
+activity#com.example.onlineshopping.ui.Calender
+ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:54:9-49
+	android:name
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:54:19-46
+activity#com.example.onlineshopping.admin.Admin
+ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:55:9-49
+	android:name
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:55:19-46
+activity#com.example.onlineshopping.ui.SignUp
+ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:56:9-47
+	android:name
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:56:19-44
+activity#com.example.onlineshopping.ui.MainActivity
+ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:57:9-53
+	android:name
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:57:19-50
+activity#com.example.onlineshopping.Capture
+ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:58:9-62:57
+	android:screenOrientation
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:60:13-49
+	android:stateNotNeeded
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:61:13-42
+	android:theme
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:62:13-54
+	android:name
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml:59:13-36
+uses-sdk
+INJECTED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\biostech\.gradle\caches\transforms-3\df6822b4ba73a7c473e8051c3543d0a7\transformed\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\biostech\.gradle\caches\transforms-3\df6822b4ba73a7c473e8051c3543d0a7\transformed\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\biostech\.gradle\caches\transforms-3\6c9c97615cfc1e30abc2ed961985f2e8\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\biostech\.gradle\caches\transforms-3\6c9c97615cfc1e30abc2ed961985f2e8\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\biostech\.gradle\caches\transforms-3\16349600783fa4c0732e670111179c78\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\biostech\.gradle\caches\transforms-3\16349600783fa4c0732e670111179c78\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-maps:18.0.1] C:\Users\biostech\.gradle\caches\transforms-3\c14dba5edf88df814e318dcbd7f96049\transformed\jetified-play-services-maps-18.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.0.1] C:\Users\biostech\.gradle\caches\transforms-3\c14dba5edf88df814e318dcbd7f96049\transformed\jetified-play-services-maps-18.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:19.0.0] C:\Users\biostech\.gradle\caches\transforms-3\b4d2d0f81868c6da67e8edf483674ef1\transformed\jetified-play-services-location-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:19.0.0] C:\Users\biostech\.gradle\caches\transforms-3\b4d2d0f81868c6da67e8edf483674ef1\transformed\jetified-play-services-location-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.github.markushi:circlebutton:1.1] C:\Users\biostech\.gradle\caches\transforms-3\1f4df4b3d2fc6bc01ebd781a271665ca\transformed\jetified-circlebutton-1.1\AndroidManifest.xml:7:5-44
+MERGED from [com.github.markushi:circlebutton:1.1] C:\Users\biostech\.gradle\caches\transforms-3\1f4df4b3d2fc6bc01ebd781a271665ca\transformed\jetified-circlebutton-1.1\AndroidManifest.xml:7:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:19:5-43
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:19:5-43
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\7198bc9663cdd6bdfb0b0958cb77af92\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\7198bc9663cdd6bdfb0b0958cb77af92\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\fc2c17e1252f7bc391a1113e9da7ead9\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\fc2c17e1252f7bc391a1113e9da7ead9\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\fdf82ea01639be3b378e3d8ae26d9fb7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\fdf82ea01639be3b378e3d8ae26d9fb7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\3504aa656f9d00f9e2cadffb281d01d0\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\3504aa656f9d00f9e2cadffb281d01d0\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\biostech\.gradle\caches\transforms-3\c247fbe16cfb168c5d8e079da1f8ee44\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\biostech\.gradle\caches\transforms-3\c247fbe16cfb168c5d8e079da1f8ee44\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\biostech\.gradle\caches\transforms-3\c51c1755600648bccca4ea7c8704c708\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\biostech\.gradle\caches\transforms-3\c51c1755600648bccca4ea7c8704c708\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.0] C:\Users\biostech\.gradle\caches\transforms-3\89b53bb760bf66c83cd8cefe35ee5479\transformed\jetified-play-services-tasks-18.0.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.0] C:\Users\biostech\.gradle\caches\transforms-3\89b53bb760bf66c83cd8cefe35ee5479\transformed\jetified-play-services-tasks-18.0.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\biostech\.gradle\caches\transforms-3\e6d400ba5c8d05501ff6f03a459292e6\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\biostech\.gradle\caches\transforms-3\e6d400ba5c8d05501ff6f03a459292e6\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\biostech\.gradle\caches\transforms-3\7e09f154def15ab17348089459421b07\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\biostech\.gradle\caches\transforms-3\7e09f154def15ab17348089459421b07\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\biostech\.gradle\caches\transforms-3\c2943c766a971b30133f49407ff21e60\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\biostech\.gradle\caches\transforms-3\c2943c766a971b30133f49407ff21e60\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\3f7821781e94f81fee824a3c8b7db309\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\3f7821781e94f81fee824a3c8b7db309\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\a2242387247aa8432093d2a01af71dba\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\a2242387247aa8432093d2a01af71dba\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\biostech\.gradle\caches\transforms-3\7504ccfe757c3b8251dde7494000f3ff\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\biostech\.gradle\caches\transforms-3\7504ccfe757c3b8251dde7494000f3ff\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\biostech\.gradle\caches\transforms-3\82e137d0499d09a449d2463aa5974f15\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\biostech\.gradle\caches\transforms-3\82e137d0499d09a449d2463aa5974f15\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\biostech\.gradle\caches\transforms-3\bad80395f89f9c8d7e39c1b2b41b5525\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\biostech\.gradle\caches\transforms-3\bad80395f89f9c8d7e39c1b2b41b5525\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\biostech\.gradle\caches\transforms-3\ec79f9c58b64c498772908f9ba77a8d1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\biostech\.gradle\caches\transforms-3\ec79f9c58b64c498772908f9ba77a8d1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\70815d79092ecd9fc6461dffc8a2c5cb\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\70815d79092ecd9fc6461dffc8a2c5cb\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\653456c4a641da75de4b4a9638a8683c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\653456c4a641da75de4b4a9638a8683c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\26a7debbd02593a460c2da8b73b1a684\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\26a7debbd02593a460c2da8b73b1a684\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\9666b4e4af60ed58b0ce2300b5e688b4\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\9666b4e4af60ed58b0ce2300b5e688b4\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\biostech\.gradle\caches\transforms-3\07202513350ea83f4d6257994e0c248b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\biostech\.gradle\caches\transforms-3\07202513350ea83f4d6257994e0c248b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\4c4629283f6e569e5667004f76617cc7\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\4c4629283f6e569e5667004f76617cc7\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\b2ba3d5ed78786779fe2371dcc849edb\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\b2ba3d5ed78786779fe2371dcc849edb\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\c6a5dbd933b5d9edc3eaf04e5514889f\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\c6a5dbd933b5d9edc3eaf04e5514889f\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\abdc8169a7295de3f7919833b2bb3b38\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\abdc8169a7295de3f7919833b2bb3b38\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\61c2c96224335355841f2b14c65306c1\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\61c2c96224335355841f2b14c65306c1\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\biostech\.gradle\caches\transforms-3\d2b38ed747382c5e5a6e7478df98d3b8\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\biostech\.gradle\caches\transforms-3\d2b38ed747382c5e5a6e7478df98d3b8\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\biostech\.gradle\caches\transforms-3\76daf7c648fcd60b1fa8502269df1152\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\biostech\.gradle\caches\transforms-3\76daf7c648fcd60b1fa8502269df1152\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\biostech\.gradle\caches\transforms-3\428407af95293b899efae517a280444a\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\biostech\.gradle\caches\transforms-3\428407af95293b899efae517a280444a\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\biostech\.gradle\caches\transforms-3\0dc6dc78734c4020dab75f9829870687\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\biostech\.gradle\caches\transforms-3\0dc6dc78734c4020dab75f9829870687\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\caacbca232305dc5be1f7f468063d861\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\caacbca232305dc5be1f7f468063d861\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\70be178243629fefb8ce9adf6a292e12\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\70be178243629fefb8ce9adf6a292e12\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\c37e8f3de07728d5aa1483e75a377c93\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\c37e8f3de07728d5aa1483e75a377c93\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\30559646bdc9f3290097ba378eb99203\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\30559646bdc9f3290097ba378eb99203\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\b618f929228947d1fd03b4a852d85b00\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\b618f929228947d1fd03b4a852d85b00\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\biostech\.gradle\caches\transforms-3\1cb4c19a0747461aa679ba30d4bab2d0\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\biostech\.gradle\caches\transforms-3\1cb4c19a0747461aa679ba30d4bab2d0\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\biostech\.gradle\caches\transforms-3\9431a3100b3f63fcde039d72eb8ba536\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\biostech\.gradle\caches\transforms-3\9431a3100b3f63fcde039d72eb8ba536\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\biostech\.gradle\caches\transforms-3\4e4b987f33dc68fb28188a73908499f7\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\biostech\.gradle\caches\transforms-3\4e4b987f33dc68fb28188a73908499f7\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\78759bb9014001eef7850905c2fbbc44\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\biostech\.gradle\caches\transforms-3\78759bb9014001eef7850905c2fbbc44\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\biostech\Desktop\Onlineshopping\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:18.0.1] C:\Users\biostech\.gradle\caches\transforms-3\c14dba5edf88df814e318dcbd7f96049\transformed\jetified-play-services-maps-18.0.1\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.1] C:\Users\biostech\.gradle\caches\transforms-3\c14dba5edf88df814e318dcbd7f96049\transformed\jetified-play-services-maps-18.0.1\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.0.1] C:\Users\biostech\.gradle\caches\transforms-3\c14dba5edf88df814e318dcbd7f96049\transformed\jetified-play-services-maps-18.0.1\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.0.1] C:\Users\biostech\.gradle\caches\transforms-3\c14dba5edf88df814e318dcbd7f96049\transformed\jetified-play-services-maps-18.0.1\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.1] C:\Users\biostech\.gradle\caches\transforms-3\c14dba5edf88df814e318dcbd7f96049\transformed\jetified-play-services-maps-18.0.1\AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.0.1] C:\Users\biostech\.gradle\caches\transforms-3\c14dba5edf88df814e318dcbd7f96049\transformed\jetified-play-services-maps-18.0.1\AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.0.1] C:\Users\biostech\.gradle\caches\transforms-3\c14dba5edf88df814e318dcbd7f96049\transformed\jetified-play-services-maps-18.0.1\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.1] C:\Users\biostech\.gradle\caches\transforms-3\c14dba5edf88df814e318dcbd7f96049\transformed\jetified-play-services-maps-18.0.1\AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.0.1] C:\Users\biostech\.gradle\caches\transforms-3\c14dba5edf88df814e318dcbd7f96049\transformed\jetified-play-services-maps-18.0.1\AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.1] C:\Users\biostech\.gradle\caches\transforms-3\c14dba5edf88df814e318dcbd7f96049\transformed\jetified-play-services-maps-18.0.1\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.1] C:\Users\biostech\.gradle\caches\transforms-3\c14dba5edf88df814e318dcbd7f96049\transformed\jetified-play-services-maps-18.0.1\AndroidManifest.xml:40:13-50
+uses-permission#android.permission.CAMERA
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:25:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:32:5-34:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:34:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:33:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:37:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:36:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:39:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:41:5-43:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:42:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:46:9-52:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:49:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:48:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:50:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:52:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:51:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\biostech\.gradle\caches\transforms-3\d6068b97feec7332f396272388430a3f\transformed\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:47:13-74
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\biostech\.gradle\caches\transforms-3\c247fbe16cfb168c5d8e079da1f8ee44\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\biostech\.gradle\caches\transforms-3\c247fbe16cfb168c5d8e079da1f8ee44\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\biostech\.gradle\caches\transforms-3\c247fbe16cfb168c5d8e079da1f8ee44\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\biostech\.gradle\caches\transforms-3\c247fbe16cfb168c5d8e079da1f8ee44\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\biostech\.gradle\caches\transforms-3\e6d400ba5c8d05501ff6f03a459292e6\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\biostech\.gradle\caches\transforms-3\e6d400ba5c8d05501ff6f03a459292e6\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\biostech\.gradle\caches\transforms-3\e6d400ba5c8d05501ff6f03a459292e6\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
